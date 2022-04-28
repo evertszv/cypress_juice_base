@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\fixtures",
+    "\\cypress\\integration",
+    "\\cypress\\integration\\juice-shop",
+    "\\cypress\\pageObjects",
+    "\\cypress\\plugins",
+    "\\cypress\\support"
+  ],
+  "SelectedNode": "\\cypress\\pageObjects\\WalletPaymentPage.js",
+  "PreviewInSolutionExplorer": false
+}
